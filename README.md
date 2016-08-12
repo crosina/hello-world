@@ -1,2 +1,2 @@
 # hello-world
-Getting my feet wet
+A bit about myself
